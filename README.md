@@ -1,4 +1,4 @@
-# Hi, I'm Hannah
+# 👋 Hi, I'm Hannah
 - 👩‍🎓 A sociology student at Bielefeld University
 - 📗 An Editor of the student magazine ✨<b>soz</b>usagen✨ at the Faculty of Sociology
 
