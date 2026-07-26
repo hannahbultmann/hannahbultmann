@@ -10,4 +10,4 @@
 - 🦋 Learning Spanish
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannahbultmann&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hannahbultmann&langs_count=4)
