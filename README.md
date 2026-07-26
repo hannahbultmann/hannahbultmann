@@ -10,4 +10,6 @@
 - 📘 Reading contemporary literature
 - 🦋 Learning Spanish
 
+</br>
+
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hannahbultmann&langs_count=4)
