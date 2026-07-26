@@ -1,7 +1,7 @@
-# 🐳 Hi, I'm Hannah
+# 🐳 Hi, I'm Hannah :)
 
 - 👩‍🎓 A sociology and computational linguistics student at Bielefeld University
-- 🖥️ An Editor of the student magazine <b>soz</b>usagen at the Faculty of Sociology
+- 🖥️ An editor of the student magazine [<b>soz</b>usagen](https://www.uni-bielefeld.de/soz-sozusagen) at the Faculty of Sociology
 
 ## I'm interested in...
 - 🫂 Researching language
